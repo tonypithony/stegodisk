@@ -1,0 +1,10 @@
+cd /home/thony/Документы/SteganoDiskMountFilesInLinux
+
+sudo chmod 777 stegodisk2version.sh
+
+sudo ./stegodisk2version.sh Snatch.mp4 ./stegotest2
+
+[sudo] пароль для van_rossum: guido
+Enter password: 123
+
+Success: mounted at steganotest2/
