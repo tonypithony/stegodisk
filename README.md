@@ -40,3 +40,4 @@ Please do not use the program for illegal activities.
     Twofish (twofish-xts-plain64, twofish-cbc-plain64)
     Camellia (camellia-xts-plain64, camellia-cbc-plain64)
 
+![](https://raw.githubusercontent.com/tonypithony/stegodisk/refs/heads/main/677bcfcb24f618241227a7a4.png)
